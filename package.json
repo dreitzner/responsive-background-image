@@ -1,0 +1,19 @@
+{
+  "name": "@d.reitzner/responsive-background-image",
+  "version": "0.0.1",
+  "description": "Uses <source> or srcset to dynamicly change the background image of a given element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreitzner/responsive-background-image.git"
+  },
+  "author": "Domenik Reitzner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreitzner/responsive-background-image/issues"
+  },
+  "homepage": "https://github.com/dreitzner/responsive-background-image#readme"
+}
